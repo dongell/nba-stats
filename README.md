@@ -1,6 +1,6 @@
 # NBA Stats
 
-A Python project for randing NBA teams by their statistics.
+A Python project for ranking NBA teams by their statistics.
 
 ## Project Structure
 
