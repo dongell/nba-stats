@@ -2,6 +2,16 @@
 
 A Python project for ranking NBA teams by their statistics.
 
+## Table of Contents
+
+- [Project Structure](#project-structure)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Development](#development)
+  - [Running Tests](#running-tests)
+  - [Syntax Check](#syntax-check)
+- [Requirements](REQUIREMENTS.md)
+
 ## Project Structure
 
 ```
@@ -14,6 +24,7 @@ nba-stats/
 │   └── test_hello.py
 ├── pyproject.toml
 ├── README.md
+├── REQUIREMENTS.md
 └── .gitignore
 ```
 
