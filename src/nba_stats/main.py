@@ -4,8 +4,7 @@
 
 def greet():
     """Print greeting messages."""
-    print("Hello, world!")
-    print("Hello, world two!")
+    print("Hello, NBA Stats!!")
 
 
 def main():
